@@ -60,6 +60,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 There are two general approaches to investing: active and passive. Active investing implies you are actively buying and selling stocks, bonds, options and so on, conducting research and making active decisions about the investments you make. Passive investing implies you are more disconnected from the market, passively investing money into mutual funds, ETFs, IRAs, 401Ks and allowing the managers of those funds to manage those investments, not focusing on individual stocks, or you may have hired a financial advisor or wealth manager. Neither approach will make you rich quickly. Using active approaches you are very likely to lose money as a beginner. Active investing takes a large amount of work and research and most people will not beat the market's returns over the long term. If you are brand new, it's best to start with passive approaches while you get your feet wet and learn about more active strategies, and gradually work towards becoming more and more active. 
 
 - **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
+- [The Ultimate Fundamentals Guide on What You Need to Learn First](https://www.reddit.com/r/UndervaluedStonks/comments/kheec2/the_ultimate_fundamentals_guide_on_what_you_need)
 - [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
 - [Five Things to Look for on Every Trade](https://www.youtube.com/watch?v=d1cSG-6GIlU)
 - **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
@@ -211,6 +212,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
+- [sharelab - US Stock Comparison Based on Empirical Finance Academia](https://www.sharelab.com)
 ###### [TOC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
@@ -226,9 +228,12 @@ There are two general approaches to investing: active and passive. Active invest
 - **[TradeIdeas Realtime Scanning/Screening](https://www.trade-ideas.com/)**
 - [StockCharts Predefined Scans](https://stockcharts.com/def/servlet/SC.scan)
 - [Stock Market Watch Ideas](http://thestockmarketwatch.com/ideas/)
+- [Optionsonar - Unusual Options Activity & Order Flow Scanner](https://www.optionsonar.com/)
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
 - [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
+- [senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
+- [Ortex.com - ORTEX](https://www.ortex.com)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
@@ -283,6 +288,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Warrior Trading](https://www.warriortrading.com)
 - [Clay Trader](https://www.claytrader.com/)
 - **[Trade on the Fly - Active Trading Services](https://www.tradeonthefly.com/)**
+- [Benzinga Pro](https://pro.benzinga.com/)
 ###### [TOC](#toc)
 ---
 **<a id="books"></a>BOOKS:**
@@ -457,7 +463,6 @@ There are two general approaches to investing: active and passive. Active invest
 	- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
 	- [SEC-API.io](https://www.sec-api.io/)
 	- [Alpha Vantage](https://www.alphavantage.co/)
-	- [Quantopian](https://www.quantopian.com/)
 	- [Norgate Data - Financial Market Data for Stocks, Futures and Forex](https://norgatedata.com/)
 	###### [TOC](#toc)
 
@@ -471,7 +476,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Reddit /r/StockMarket](https://www.reddit.com/r/stockmarket)
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
-- [Reddit /r/Undervalued](https://www.reddit.com/r/undervalued)
+- [Reddit /r/UndervaluedStonks](https://www.reddit.com/r/UndervaluedStonks)
 - [Reddit /r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
 - **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/eYd3G5fu)**
 - **[Woot Street Live Chat](https://discord.gg/eHvyGPu)**
